@@ -30,7 +30,7 @@
 
 ### 📈 Activity Graph
   
-<a href="https://github.com/Priyanshuparth/github-readme-activity-graph"><img alt="Priyanshu's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshuparth&theme=react-dark" /><a>
+[![Priyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshuparth&bg_color=000000&color=741e85&line=763aa6&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🏆 GitHub Trophies
