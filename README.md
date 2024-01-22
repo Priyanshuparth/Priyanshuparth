@@ -24,7 +24,7 @@
   
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Priyanshuparth&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshuparth&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Priyanshuparth&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
   
 </div>
 
@@ -36,18 +36,10 @@
 ## 🏆 GitHub Trophies
 <p align="center"> <a href="https://github.com/Priyanshuparth/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priyanshuparth&theme=discord&no-bg=true&row=1&margin-w=15&margin-h=15" alt="Priyanshu" /></a> </p>
 
-## 🔝 Top Contributed Repo
-
-<div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=Priyanshuparth&limit=5&theme=radical&combine_all_yearly_contributions=true)<br>
-  
-</div>
-
   
 ### ✍️ Random Dev Quote
+<div align="center">
+ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
-[![](https://visitcount.itsvg.in/api?id=Priyanshuparth&icon=7&color=11)](https://visitcount.itsvg.in)
+</div>
