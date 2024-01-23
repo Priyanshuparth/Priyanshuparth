@@ -22,7 +22,6 @@
 # 📊 GitHub Stats:
 <div align="center">
   
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Priyanshuparth&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshuparth&theme=midnight-purple&hide_border=false)<br/>
 
   
