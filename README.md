@@ -4,7 +4,8 @@
 # 💫 About Me:
 
  🔭 I'm currently studying BTech in CSE 💻 <br> 
- 🌱 I’m currently learning Devops <br>
+ 🧑‍💼 I'm currently working as a R&D intern in Hewlett Packard Enterprise (HPE) <br> 
+ 🌱 Learning Devops <br>
 
 
 
